@@ -1,5 +1,5 @@
 api:
-  enabled: true
+  enabled: false
   address: 0.0.0.0:9001
 
 sources:
